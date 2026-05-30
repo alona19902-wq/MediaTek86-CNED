@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace MediaTek86.model
 {
     /// <summary>
-    /// Classe métier des motifs
+    /// Classe métier des motif
     /// </summary>
     public class Motif
     {
