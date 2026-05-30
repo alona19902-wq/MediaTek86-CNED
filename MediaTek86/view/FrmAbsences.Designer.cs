@@ -1,4 +1,5 @@
-﻿namespace MediaTek86.view
+﻿using System.Windows.Forms;
+namespace MediaTek86.view
 {
     partial class FrmAbsences : Form
     {
